@@ -42,7 +42,7 @@ This line demonstrates the similartity of the two stock models, and using this w
 
 ### Unit 6 Project
 
-In this project I move to a possibly more intresting data set of looking at Nvidia stock price. In this unit I look into using 3-8 priors and implementing ELPD_loo to compare these models. 
+In this project I move to a possibly more intresting data set of looking at Nvidia stock price. In this unit I look into using 3-8 priors and implementing ELPD_loo to compare these models. In this project I implemented code to run through all possible combinations of priors which gave the below diagram.
 
 ![Project_6_ELPDLOO](/Photos/proj6.png)
 
